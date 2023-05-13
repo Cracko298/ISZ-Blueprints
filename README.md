@@ -1,2 +1,2 @@
 # ISZ-Blueprints
-- Download via "Code > Downloaod .zip"
+- Download via "<>Code ---> Downloaod .zip"
